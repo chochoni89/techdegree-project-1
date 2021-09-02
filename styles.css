@@ -122,6 +122,10 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #0399ff;
 }
+.dog-image {
+  max-width: 95%;
+  border-radius: 5%;
+}
 
 footer {
   width: 100%;
